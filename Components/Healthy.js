@@ -3,8 +3,8 @@ import React from "react";
 const Healthy = () => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 p-4 mt-4 gap-3 md:gap-0">
-      <div className="flex  justify-center">
-        <h1 className=" md:w-[558px] md:h-[146px] text-[28px] md:text-[46px] leading-10 md:leading-[73px] font-sportingG ">
+      <div className="">
+        <h1 className="  md:w-[558px] md:h-[146px] text-[28px] md:text-[46px] leading-10 md:leading-[73px] font-sportingG ">
           Healthy in side <br /> fresh out side
         </h1>
       </div>
